@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web Development<br>
+🔭 I’m currently working on  <br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Analytics with Gen AI<br>
 
 
 ## 🌐 Socials:
