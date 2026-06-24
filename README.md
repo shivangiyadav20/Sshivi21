@@ -45,6 +45,7 @@
 
 ✨ Built an interactive analytics dashboard using SQL + Power BI
 📌 Analyzed sales trends, product performance, and customer behavior
+<br>
 🔗 **GitHub Repo:** https://github.com/shivangiyadav20/E-Commerce-Sales-Analysis
 
 ---
@@ -53,6 +54,7 @@
 
 ✨ Designed KPI dashboards to monitor monthly performance
 📌 Created business insights using data visualization
+<br>
 🔗 **GitHub Repo:** https://github.com/shivangiyadav20/sales-dashboard-powerbi
 
 ---
@@ -62,8 +64,9 @@
 ✨ AI-powered crop prediction and agricultural insights platform
 📌 Built using Python and Machine Learning
 📌 Helps improve crop selection using environmental factors
-
+<br>
 🔗 **GitHub Repo:** https://github.com/shivangiyadav20/AgriVisionAI
+<br>
 🌐 **Live Demo:** https://crop-prediction-puce.vercel.app/
 
 
