@@ -86,16 +86,17 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sshivi21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshivi21&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivangiyadav20&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangiyadav20&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=Sshivi21&theme=tokyonight"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=shivangiyadav20&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sshivi21&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=shivangiyadav20&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
+
 
 <h3 align="center">✨ "Data tells stories, and I love finding them." ✨</h3>
