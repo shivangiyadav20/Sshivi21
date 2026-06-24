@@ -1,96 +1,103 @@
-<h1 align="center">✨ Shivangi Yadav ✨</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel | Generative AI</h3>
+<h1 align="center">Hi 👋, I'm Shivangi Yadav</h1>
+<h3 align="center">✨ Data Analyst in Progress | Turning Data into Insights ✨</h3>
 
 <p align="center">
-  Turning raw data into meaningful insights 📈
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+Machine+Learning+%7C+GenAI;Building+Dashboards+%26+Solving+Real+Problems" />
 </p>
 
 ---
 
-<img align="right" alt="Data Analyst" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R4NXM4Y3g2ZGVpY2RkMWx3d3J0NjNrb2s4cHFsM2ppM2Q5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+## 🌸 About Me
 
-✨ MCA graduate with a strong interest in Data Analytics and Business Intelligence
-📌 Skilled in SQL, Python, Excel, and Power BI
-🌱 Currently learning Data Analytics with Generative AI at DUCAT Noida
-📊 Passionate about solving business problems using data-driven insights
-🎯 Looking for internships and entry-level opportunities in Data Analytics
+🎓 MCA Graduate passionate about Data Analytics
+📊 Skilled in analyzing data and building dashboards
+🌱 Currently learning **Data Analytics with Generative AI**
+💡 Interested in solving real-world business problems using data
+📍 Exploring Data Visualization, Machine Learning & Business Intelligence
+🎯 Looking for **Internships** and **Entry-Level Data Analyst roles**
+
+<br>
 
 ---
 
-## 🛠️ Tech Toolbox
+## ⚡ Tech Arsenal
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
-📍 **Core Skills:**
-✔ SQL
-✔ Python
-✔ Power BI
-✔ Excel
-✔ Data Cleaning
-✔ Data Visualization
-✔ EDA
-✔ Machine Learning
-✔ Generative AI
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analytics-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-commerce Sales Dashboard
 
-🔹 Developed an interactive dashboard using SQL + Power BI
-🔹 Analyzed sales trends, customer behavior, and product performance
-🔹 Identified top-performing products and revenue growth opportunities
+✨ Built a dynamic dashboard using **SQL + Power BI**
+📌 Analyzed customer behavior, product performance, and sales trends
+📈 Generated insights for improving business growth
 
 ---
 
-### 📈 Sales Analysis Dashboard
+### 📊 Sales Analysis Dashboard
 
-🔹 Cleaned and transformed raw sales data using Excel & SQL
-🔹 Created KPI dashboards for monthly sales tracking
-🔹 Generated actionable insights for business decisions
+✨ Cleaned and transformed raw sales data using **Excel + SQL**
+📌 Built KPI dashboards to monitor sales performance
+📈 Helped identify monthly revenue patterns
 
 ---
 
 ### 🌾 Crop Prediction System
 
-🔹 Built a machine learning model using Python
-🔹 Predicted crops based on soil and environmental data
-🔹 Improved agricultural decision-making through predictive analysis
+✨ Developed a Machine Learning model using **Python**
+📌 Predicted crops based on soil and environmental conditions
+📈 Improved agricultural planning using predictive analytics
 
 ---
 
-## 📜 Certifications
+## 🏆 Achievements
 
-🏅 Data Analytics with Gen AI — DUCAT Noida
-
----
-
-## 🌐 Let's Connect
-
-📧 **Email:** [shivangi.kvm20@gmail.com](mailto:shivangi.kvm20@gmail.com)
-💼 **LinkedIn:** [www.linkedin.com/in/shivangi-yadav-0a4350246](http://www.linkedin.com/in/shivangi-yadav-0a4350246)
-💻 **GitHub:** github.com/Sshivi21
+🎖 Completed Data Analytics with GenAI training from DUCAT Noida
+📚 Built multiple real-world analytics projects
+💻 Continuously improving SQL, Python & BI skills
 
 ---
 
-## 📈 GitHub Insights
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sshivi21&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshivi21&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sshivi21&theme=tokyonight" />
+<p align="left">
+<a href="mailto:shivangi.kvm20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shivangi-yadav-0a4350246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Sshivi21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
+## 📈 GitHub Analytics
+
 <p align="center">
-✨ “Data is the new oil, but insights are the real fuel.” ✨
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sshivi21&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshivi21&layout=compact&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sshivi21&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sshivi21&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
+<h3 align="center">✨ "Data tells stories, and I love finding them." ✨</h3>
