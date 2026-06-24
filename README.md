@@ -1,49 +1,72 @@
-# Hi, I'm Shivangi Yadav 👋
+<h1 align="center">Hi 👋, I'm Shivangi Yadav</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel | Gen AI</h3>
 
-## 💫 About Me
+---
 
-Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Power BI.
-Currently pursuing Data Analytics with Gen AI and building real-world projects to strengthen problem-solving and analytical skills.
-Passionate about transforming raw data into meaningful insights and creating interactive dashboards for business decision-making.
+## 🚀 About Me
 
-## 🚀 Projects
+🔹 MCA graduate passionate about Data Analytics and Business Intelligence
+🔹 Skilled in SQL, Python, Excel, and Power BI
+🔹 Currently learning Data Analytics with Generative AI at DUCAT Noida
+🔹 Interested in solving real-world business problems using data
+🔹 Open to internships, freelance projects, and entry-level opportunities
 
-### 1. E-commerce Sales Dashboard
+---
 
-* Built an interactive sales dashboard using SQL and Power BI
-* Analyzed sales trends, top-selling products, and customer behavior
-* Created visual reports for business insights
+## 💻 Tech Stack
 
-### 2. Hospital Management System
+✔ SQL
+✔ Python
+✔ Power BI
+✔ Excel
+✔ MySQL
+✔ Data Cleaning
+✔ Data Visualization
+✔ Exploratory Data Analysis (EDA)
+✔ Generative AI
 
-* Designed and managed relational database using MySQL
-* Implemented patient, doctor, and appointment management system
-* Worked with joins, subqueries, and constraints
+---
 
-### 3. Customer Data Analysis
+## 📂 Featured Projects
 
-* Performed data cleaning and analysis using Python and Excel
-* Identified patterns and trends from customer datasets
-* Created reports for decision-making
+### 🛒 E-commerce Sales Dashboard
 
-## 💻 Skills
+📌 Built an interactive dashboard using Power BI and SQL
+📌 Analyzed sales performance, profit trends, and customer behavior
+📌 Generated insights for better business decision-making
 
-* SQL
-* Python
-* Power BI
-* Excel
-* Data Cleaning
-* Data Visualization
-* MySQL
-* Generative AI
+### 🏥 Hospital Management System
 
-## 📜 Certification
+📌 Designed relational database using MySQL
+📌 Managed patient, doctor, and appointment records
+📌 Used joins, subqueries, and constraints
 
-* Data Analytics with Gen AI – DUCAT Noida
+### 📊 Customer Analysis Project
+
+📌 Cleaned and analyzed customer data using Python and Excel
+📌 Identified buying patterns and trends
+📌 Built reports for data-driven insights
+
+---
+
+## 📜 Certifications
+
+🎓 Data Analytics with Gen AI — DUCAT Noida
+
+---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/shivangi-yadav-0a4350246](http://www.linkedin.com/in/shivangi-yadav-0a4350246)
-* GitHub: github.com/Sshivi21
-* Email: [shivangi.kvm20@gmail.com](mailto:shivangi.kvm20@gmail.com)
+📧 Email: [shivangi.kvm20@gmail.com](mailto:shivangi.kvm20@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/shivangi-yadav-0a4350246](http://www.linkedin.com/in/shivangi-yadav-0a4350246)
+💻 GitHub: github.com/Sshivi21
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sshivi21\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sshivi21\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sshivi21\&theme=tokyonight)
