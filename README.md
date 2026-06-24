@@ -2,23 +2,28 @@
 <h3 align="center">✨ Data Analyst in Progress | Turning Data into Insights ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+Machine+Learning+%7C+GenAI;Building+Dashboards+%26+Solving+Real+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+Machine+Learning+%7C+GenAI;Building+Dashboards+%26+Solving+Real+Problems"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🌸 About Me
 
-🎓 MCA Graduate passionate about Data Analytics
-📊 Skilled in analyzing data and building dashboards
-🌱 Currently learning **Data Analytics with Generative AI**
-💡 Interested in solving real-world business problems using data
-📍 Exploring Data Visualization, Machine Learning & Business Intelligence
-🎯 Looking for **Internships** and **Entry-Level Data Analyst roles**
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<br>
+🎓 MCA Graduate passionate about Data Analytics  
+
+📊 Skilled in analyzing data and building dashboards  
+
+🌱 Currently learning Data Analytics with Generative AI  
+
+💡 Interested in solving real-world business problems using data  
+
+📍 Exploring Data Visualization, Machine Learning & Business Intelligence  
+
+🎯 Looking for Internships and Entry-Level Data Analyst roles  
+
+<br><br>
 
 ---
 
@@ -43,49 +48,64 @@
 
 ### 🛒 E-Commerce Sales Analysis
 
-✨ Built an interactive analytics dashboard using SQL + Power BI
-📌 Analyzed sales trends, product performance, and customer behavior
-<br>
-🔗 **GitHub Repo:** https://github.com/shivangiyadav20/E-Commerce-Sales-Analysis
+✨ Built an interactive analytics dashboard using SQL + Power BI  
+📌 Analyzed sales trends, product performance, and customer behavior  
+
+<a href="https://github.com/shivangiyadav20/E-Commerce-Sales-Analysis">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ### 📊 Sales Dashboard Power BI
 
-✨ Designed KPI dashboards to monitor monthly performance
-📌 Created business insights using data visualization
-<br>
-🔗 **GitHub Repo:** https://github.com/shivangiyadav20/sales-dashboard-powerbi
+✨ Designed KPI dashboards to monitor monthly performance  
+📌 Created business insights using data visualization  
+
+<a href="https://github.com/shivangiyadav20/sales-dashboard-powerbi">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ### 🌾 AgriVisionAI
 
-✨ AI-powered crop prediction and agricultural insights platform
-📌 Built using Python and Machine Learning
-📌 Helps improve crop selection using environmental factors
-<br>
-🔗 **GitHub Repo:** https://github.com/shivangiyadav20/AgriVisionAI
-<br>
-🌐 **Live Demo:** https://crop-prediction-puce.vercel.app/
+✨ AI-powered crop prediction and agricultural insights platform  
+📌 Built using Python and Machine Learning  
+📌 Helps improve crop selection using environmental factors  
 
+<a href="https://github.com/shivangiyadav20/AgriVisionAI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://crop-prediction-puce.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
 ## 🏆 Achievements
 
-🎖 Completed Data Analytics with GenAI training from DUCAT Noida
-📚 Built multiple real-world analytics projects
-💻 Continuously improving SQL, Python & BI skills
+🎖 Completed Data Analytics with GenAI training from DUCAT Noida  
+📂 Built 3 real-world data analytics projects  
+📈 Continuously improving SQL, Python & BI skills  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:shivangi.kvm20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/shivangi-yadav-0a4350246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Sshivi21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:shivangi.kvm20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivangi-yadav-0a4350246">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivangiyadav20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -105,5 +125,6 @@
 <img src="https://komarev.com/ghpvc/?username=shivangiyadav20&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
+---
 
-<h3 align="center">✨ "Data tells stories, and I love finding them." ✨</h3>
+<h3 align="center">✨ “Data tells stories, and I love finding them.” ✨</h3>
