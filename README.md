@@ -41,27 +41,31 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce Sales Dashboard
+### 🛒 E-Commerce Sales Analysis
 
-✨ Built a dynamic dashboard using **SQL + Power BI**
-📌 Analyzed customer behavior, product performance, and sales trends
-📈 Generated insights for improving business growth
-
----
-
-### 📊 Sales Analysis Dashboard
-
-✨ Cleaned and transformed raw sales data using **Excel + SQL**
-📌 Built KPI dashboards to monitor sales performance
-📈 Helped identify monthly revenue patterns
+✨ Built an interactive analytics dashboard using SQL + Power BI
+📌 Analyzed sales trends, product performance, and customer behavior
+🔗 **GitHub Repo:** https://github.com/shivangiyadav20/E-Commerce-Sales-Analysis
 
 ---
 
-### 🌾 Crop Prediction System
+### 📊 Sales Dashboard Power BI
 
-✨ Developed a Machine Learning model using **Python**
-📌 Predicted crops based on soil and environmental conditions
-📈 Improved agricultural planning using predictive analytics
+✨ Designed KPI dashboards to monitor monthly performance
+📌 Created business insights using data visualization
+🔗 **GitHub Repo:** https://github.com/shivangiyadav20/sales-dashboard-powerbi
+
+---
+
+### 🌾 AgriVisionAI
+
+✨ AI-powered crop prediction and agricultural insights platform
+📌 Built using Python and Machine Learning
+📌 Helps improve crop selection using environmental factors
+
+🔗 **GitHub Repo:** https://github.com/shivangiyadav20/AgriVisionAI
+🌐 **Live Demo:** https://crop-prediction-puce.vercel.app/
+
 
 ---
 
